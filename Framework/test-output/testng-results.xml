@@ -28,12 +28,12 @@
 ]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-12-01T21:45:12 IST" name="Default suite" finished-at="2021-12-01T21:45:37 IST" duration-ms="24626">
+  <suite started-at="2021-12-01T23:11:38 IST" name="Default suite" finished-at="2021-12-01T23:12:03 IST" duration-ms="25117">
     <groups>
     </groups>
-    <test started-at="2021-12-01T21:45:12 IST" name="Default test" finished-at="2021-12-01T21:45:37 IST" duration-ms="24626">
+    <test started-at="2021-12-01T23:11:38 IST" name="Default test" finished-at="2021-12-01T23:12:03 IST" duration-ms="25117">
       <class name="com.automation.testcases.LoginTestCRM">
-        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T21:45:11 IST" name="setUpSuite" finished-at="2021-12-01T21:45:12 IST" duration-ms="551" status="PASS">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T23:11:37 IST" name="setUpSuite" finished-at="2021-12-01T23:11:38 IST" duration-ms="582" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Setting up reports for test !!]]>
@@ -43,7 +43,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUpSuite -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T21:45:12 IST" name="setUp" finished-at="2021-12-01T21:45:17 IST" duration-ms="5421" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T23:11:38 IST" name="setUp" finished-at="2021-12-01T23:11:44 IST" duration-ms="6074" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Trying to start browser & Getting app ready!!]]>
@@ -53,11 +53,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginApp()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T21:45:17 IST" name="loginApp" finished-at="2021-12-01T21:45:35 IST" duration-ms="17354" status="PASS">
+        <test-method signature="loginApp()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T23:11:44 IST" name="loginApp" finished-at="2021-12-01T23:12:01 IST" duration-ms="17276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T21:45:35 IST" name="tearDownMethod" finished-at="2021-12-01T21:45:35 IST" duration-ms="695" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T23:12:01 IST" name="tearDownMethod" finished-at="2021-12-01T23:12:02 IST" duration-ms="610" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -77,7 +77,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T21:45:35 IST" name="tearDown" finished-at="2021-12-01T21:45:37 IST" duration-ms="1131" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.testcases.LoginTestCRM@1f3f4916]" started-at="2021-12-01T23:12:02 IST" name="tearDown" finished-at="2021-12-01T23:12:03 IST" duration-ms="1130" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[
